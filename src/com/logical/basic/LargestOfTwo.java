@@ -16,6 +16,7 @@ public class LargestOfTwo {
 	Integer no2= sc.nextInt();
 	
 	System.out.println("Largest = " + (no1 > no2 ? no1 : no2));
+	sc.close();
 
 	}
 
