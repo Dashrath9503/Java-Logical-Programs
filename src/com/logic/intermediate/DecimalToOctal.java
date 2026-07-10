@@ -20,4 +20,3 @@ public class DecimalToOctal
         System.out.println("Octal = " + oct); sc.close();
     }
 }
-
