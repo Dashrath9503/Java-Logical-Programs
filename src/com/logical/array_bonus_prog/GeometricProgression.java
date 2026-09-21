@@ -14,7 +14,7 @@ public class GeometricProgression
             int r = arr[1] / arr[0];
             for (int i = 2; i < arr.length; i++) 
 	    {
-                if (arr[i - 1] * r != arr[i]) 
+                if (arr[i - 1] * r != arr[i])
 		{ 
 		   isGP = false; 
 		   break; 
